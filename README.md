@@ -1,5 +1,4 @@
 # Blinkit-Power-Bi-Dashboard-and-SQL-analysis
-# Blinkit Grocery Sales Analysis
 
 ## Project Overview
 This project analyzes grocery sales data to understand sales performance, product trends, and outlet-level performance. SQL was used for data cleaning, KPI calculations, and business analysis, while Power BI was used to build an interactive dashboard.
